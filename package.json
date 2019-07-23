@@ -69,6 +69,7 @@
   },
   "prettier": {
     "singleQuote": true,
-    "trailingComma": "all"
+    "trailingComma": "all",
+    "useTabs:": true
   }
 }

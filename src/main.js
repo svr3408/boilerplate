@@ -1,6 +1,6 @@
-import User from "./scripts/module.js";
+import User from './scripts/module.js';
 
-document.addEventListener("DOMContentLoaded", () => {
-  let user = new User("Вася");
+document.addEventListener('DOMContentLoaded', () => {
+  const user = new User('Вася');
   user.sayHi(); // Вася
 });
